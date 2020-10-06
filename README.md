@@ -15,13 +15,13 @@
 
 ### Build instructions
 You can find detailed instructions on Nerdiy.de.
-General information: https://nerdiy.de/en/windiy-die-wind-turbine-aus-dem-3d-drucker/
-Build the wings: https://nerdiy.de/howto-windiy-fluegel-der-windturbine-aufbauen/
-Build the wind vane: https://nerdiy.de/howto-windiy-windfahne-zusammenbauen/
-Build hub: https://nerdiy.de/howto-windiy-nabe-inkl-mechanik-aufbauen/
-Build the rotating tower: https://nerdiy.de/howto-windiy-drehturm-aufbauen/
-Build main axis: https://nerdiy.de/howto-windiy-montage-der-hauptachse/
-Build pitch actuator: https://nerdiy.de/howto-windiy-pitch-aktor-zusammenbauen/
+- General information: https://nerdiy.de/en/windiy-die-wind-turbine-aus-dem-3d-drucker/
+- Build the wings: https://nerdiy.de/howto-windiy-fluegel-der-windturbine-aufbauen/
+- Build the wind vane: https://nerdiy.de/howto-windiy-windfahne-zusammenbauen/
+- Build hub: https://nerdiy.de/howto-windiy-nabe-inkl-mechanik-aufbauen/
+- Build the rotating tower: https://nerdiy.de/howto-windiy-drehturm-aufbauen/
+- Build main axis: https://nerdiy.de/howto-windiy-montage-der-hauptachse/
+- Build pitch actuator: https://nerdiy.de/howto-windiy-pitch-aktor-zusammenbauen/
 
 ### License
 Unless otherwise stated, all works presented here and on Nerdiy.de that are not based on software/code are subject to the CC BY-NC-SA 4.0 license (attribution – non-commercial – dissemination under the same conditions 4.0 international).
